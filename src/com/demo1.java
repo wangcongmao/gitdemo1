@@ -7,5 +7,6 @@ public class demo1 {
         System.out.println("查询");
         System.out.println("删除日记");
         System.out.println("查笔记");
+        System.out.println("关机");
     }
 }
