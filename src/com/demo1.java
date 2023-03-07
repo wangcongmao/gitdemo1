@@ -5,6 +5,5 @@ public class demo1 {
         System.out.println("hello git");
         System.out.println("登入");
         System.out.println("查询");
-        System.out.println("删除日记");
     }
 }
