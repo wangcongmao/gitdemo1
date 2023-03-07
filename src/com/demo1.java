@@ -11,5 +11,6 @@ public class demo1 {
         System.out.println("开机");
 
         System.out.println("功能1");
+        System.out.println("功能3");
     }
 }
