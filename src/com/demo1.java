@@ -13,5 +13,6 @@ public class demo1 {
 
         System.out.println("功能1");
         System.out.println("功能4");
+        System.out.println("功能3");
     }
 }
